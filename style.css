@@ -1,0 +1,40 @@
+body {
+    background-color: #2f2f2f;
+    padding: 0;
+    margin: 0;
+}
+
+.wrapper {
+    color: white;
+    border: 1px solid #a4a4a4;
+    padding: 15px 20px;
+    border-radius: 4px;
+    width: 100%; // set width relatively to the parent container with fixed width
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: ;
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    padding-left: 20px;
+}
+
+.input-group {
+    padding-left: 20px;
+    border-radius: 10%;
+}
+
+.input-box {
+    color: white;
+    margin-top: 10px;
+    border-radius: 2px;
+}
+
+button:hover {
+    border-radius: 1px solid white;
+    background-color: gold;
+}
